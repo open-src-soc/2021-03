@@ -30,13 +30,6 @@
     </url>
 
     <url>
-        <loc>http://open-src-soc.org/riscv-openhwday.html</loc>
-        <lastmod></lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>http://open-src-soc.org/riscv-special-speakers.html</loc>
         <lastmod>2021-01-11</lastmod>
         <changefreq>weekly</changefreq>
@@ -52,14 +45,14 @@
 
     <url>
         <loc>http://open-src-soc.org/sponsors-table.html</loc>
-        <lastmod>2021-02-10</lastmod>
+        <lastmod>2021-02-13</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
         <loc>http://open-src-soc.org/sponsors.html</loc>
-        <lastmod>2021-02-10</lastmod>
+        <lastmod>2021-02-13</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
